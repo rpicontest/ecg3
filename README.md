@@ -1,5 +1,6 @@
 # ecg3
 
+Hauptsensoren: Ultraschall, Wasserstand, Bluetooth
 
 1. Skript 0_init.sh ausführen
 
